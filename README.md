@@ -2,7 +2,7 @@
 
 💡 Descripción
 
-Carrera de Autos es un juego desarrollado en Scratch en el que el jugador controla un coche con las flechas del teclado, esquivando obstáculos en una carretera infinita. A medida que avanza el juego, la dificultad aumenta con la velocidad de los obstáculos. Se incluyen sonidos y un sistema de puntuación.
+Bear Crossing es un divertido juego de carreras y reflejos en el que debes esquivar osos que cruzan la carretera mientras conduces a toda velocidad por un bosque. 🌲🚗💨
 
 🛠️ Requisitos del Proyecto (CS50)
 
@@ -24,23 +24,25 @@ Carrera de Autos es un juego desarrollado en Scratch en el que el jugador contro
 
 El coche se mueve lateralmente con las flechas.
 
-Los obstáculos caen desde arriba de manera aleatoria.
+Los osos caen desde arriba de manera aleatoria.
 
-Si el coche choca con un obstáculo, el juego termina.
+Si el coche choca con un oso, el juego termina.
 
-Por cada obstáculo esquivado, se suma un punto.
-
-A medida que aumenta la puntuación, los obstáculos caen más rápido.
+A medida que avanza el tiempoo, los osos caen más rápido.
 
 Efectos de sonido al chocar.
 
-💪 Características Adicionales
+📈 Mejoras Futuras
 
-🎧 Sonidos al colisionar.
+Fondo animado para mayor realismo.
 
-🎨 Fondo animado para mayor realismo.
+Posibilidad de agregar niveles de dificultad.
 
-💡 Posibilidad de agregar niveles de dificultad.
+Implementar un sistema de niveles.
+
+Agregar más tipos de obstáculos.
+
+Incluir una tabla de puntuaciones altas.
 
 📚 Instrucciones de Instalación
 
@@ -50,14 +52,6 @@ Abre Scratch y selecciona "Archivo > Cargar desde tu computadora".
 
 Ejecuta el proyecto y juega.
 
-🏆 Capturas de Pantalla
 
-(Agregar capturas de pantalla del juego)
 
-📈 Mejoras Futuras
 
-Implementar un sistema de niveles.
-
-Agregar más tipos de obstáculos.
-
-Incluir una tabla de puntuaciones altas.
